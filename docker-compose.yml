@@ -1,0 +1,7 @@
+services:
+  etl:
+    build: ./etl
+    env_file:
+      - .env
+
+
