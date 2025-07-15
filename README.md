@@ -13,7 +13,7 @@ This project demonstrates a production-style **ETL (Extract, Transform, Load)** 
  - [Screenshot](#screenshot)
 
 
-## 📌 Overview
+## Overview
 
 - **Extract**: Bitcoin & Ethereum prices from CoinGecko
 - **Load**: Snowflake cloud data warehouse
@@ -22,7 +22,7 @@ This project demonstrates a production-style **ETL (Extract, Transform, Load)** 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 
 ├── etl/
@@ -37,7 +37,7 @@ This project demonstrates a production-style **ETL (Extract, Transform, Load)** 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ### 1. **ETL Script** (`run_etl.py`)
 
