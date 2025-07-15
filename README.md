@@ -3,6 +3,15 @@
 This project demonstrates a production-style **ETL (Extract, Transform, Load)** pipeline using Docker, Python, and Snowflake. It fetches live crypto prices using the [CoinGecko API](https://www.coingecko.com/), containers the pipeline using Docker, and loads it into a Snowflake table.
 
 ---
+## Table of contents
+ - [Overview](#overview)
+ - [Project Structure](#project-structure)
+ - [How It Works](#how-it-works)
+ - [Final Outcome](#final-outcome)
+ - [Environment Variables](#environment-variables)
+ - [Skills Demonstrated](#skills-demonstrated)
+ - [Screenshot](#screenshot)
+
 
 ## 📌 Overview
 
@@ -80,7 +89,7 @@ Data is successfully written to the Snowflake ANALYTICS.ROW_DATA.CRYPTO_PRICES t
 ```
 
 
-### 5. **🔐 Environment Variables (.env)** 
+### 5. **Environment Variables** 
 
 ```
 SNOWFLAKE_ACCOUNT=************
@@ -104,7 +113,7 @@ Snowflake cloud data warehouse integration
 
 Using .env securely in production
 
-### 7. **📸 Screenshot** 
+### 7. **Screenshot** 
 
 <img width="1462" height="796" alt="Docker" src="https://github.com/user-attachments/assets/fea82330-2a8f-45e3-b7c3-e5a98ffca030" />
 
