@@ -103,13 +103,13 @@ SNOWFLAKE_WAREHOUSE=COMPUTE_WH
 
 ### 6. **Skills Demonstrated** 
 
-Python scripting for ETL
+- Python scripting for ETL
 
-Docker containerization
+- Docker containerization
 
-Working with external APIs
+- Working with external APIs
 
-Snowflake cloud data warehouse integration
+- Snowflake cloud data warehouse integration
 
 Using .env securely in production
 
